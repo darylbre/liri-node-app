@@ -1,7 +1,8 @@
 require("dotenv").config();
 
-const request = require("request");
+//const request = require("request");
 const fs = require("fs");
+const axios = require('axios');
 const keys = require('./keys.js');
 const Spotify = require('node-spotify-api');
 const spotify = new Spotify(keys.spotify);
@@ -31,7 +32,7 @@ function userInput(userOption, inputParameter) {
 
 function showConcert(inputParameter) {
   const queryUrl = "https://rest.bandsintown.com/artists/" + inputParameter + "/events?app_id=codingbootcamp";
-  request(queryUrl, function (error, response, body) {
+  axios.get(queryUrl, function (error, response, body) {
     if (!error && response.statusCode === 000) {
       const concerts = JSON.parse(body);
       for (var i = 0; i < concerts.length; i++) {
@@ -55,7 +56,7 @@ function showConcert(inputParameter) {
 }
 
 
-function showSongInfo(inputParameter) {
+function showSong(inputParameter) {
   if (inputParameter === undefined) {
     inputParameter = "The Sign";
   }
@@ -91,7 +92,7 @@ function showSongInfo(inputParameter) {
   );
 };
 
-function showMovieInfo(inputParameter) {
+function showMovie(inputParameter) {
   if (inputParameter === undefined) {
     inputParameter = "Mr. Nobody"
     console.log("-----------------------");
