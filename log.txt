@@ -138,3 +138,423 @@ preview song: https://p.scdn.co/mp3-preview/ca5047ad569d9860b850475f22cb482c8240
 album: Coloring Book
 artist(s): Chance the Rapper
 *****************************
+**********SONG INFO*********
+0
+song name: All on Me
+preview song: https://p.scdn.co/mp3-preview/b4459b0c6e87748e5a638ef45a1640e9bd2824b0?cid=8076f647e6514780b0e03711b07be75d
+album: Dark Horse
+artist(s): Devin Dawson
+*****************************
+**********SONG INFO*********
+1
+song name: Asking for a Friend
+preview song: https://p.scdn.co/mp3-preview/cd595141e6d4787e49f689b5b6d39fb99febb825?cid=8076f647e6514780b0e03711b07be75d
+album: Dark Horse
+artist(s): Devin Dawson
+*****************************
+**********SONG INFO*********
+2
+song name: Oh Devil - Radio Version
+preview song: null
+album: Oh Devil (Radio Version)
+artist(s): Electric Guest
+*****************************
+**********SONG INFO*********
+3
+song name: Young, Wild & Free (feat. Bruno Mars)
+preview song: https://p.scdn.co/mp3-preview/8c67ffec7842ba4da0623429973e540e0dc3ccdd?cid=8076f647e6514780b0e03711b07be75d
+album: Mac and Devin Go To High School (Music From and Inspired By The Movie)
+artist(s): Snoop Dogg
+*****************************
+**********SONG INFO*********
+4
+song name: Summer Lover (feat. Devin & Nile Rodgers)
+preview song: https://p.scdn.co/mp3-preview/c2f3a8092043b3990102d849e256f1f66d4525c1?cid=8076f647e6514780b0e03711b07be75d
+album: Summer Lover (feat. Devin & Nile Rodgers)
+artist(s): Oliver Heldens
+*****************************
+**********SONG INFO*********
+5
+song name: Dark Horse
+preview song: https://p.scdn.co/mp3-preview/fb527ad3f346b16627b5e10ade5c0f74534ad8ff?cid=8076f647e6514780b0e03711b07be75d
+album: Dark Horse
+artist(s): Devin Dawson
+*****************************
+**********SONG INFO*********
+6
+song name: Young, Wild & Free (feat. Bruno Mars)
+preview song: https://p.scdn.co/mp3-preview/07aa6b278601d4f50c382fd750000f0f88020f7f?cid=8076f647e6514780b0e03711b07be75d
+album: Mac and Devin Go To High School (Music From and Inspired By The Movie)
+artist(s): Snoop Dogg
+*****************************
+**********SONG INFO*********
+7
+song name: Fuck You
+preview song: null
+album: 2001
+artist(s): Dr. Dre
+*****************************
+**********SONG INFO*********
+8
+song name: French Inhale (feat. Mike Posner)
+preview song: https://p.scdn.co/mp3-preview/94c46ce5dc5217c6af2303f08e448c887b0d9164?cid=8076f647e6514780b0e03711b07be75d
+album: Mac and Devin Go To High School (Music From and Inspired By The Movie)
+artist(s): Snoop Dogg
+*****************************
+**********SONG INFO*********
+9
+song name: Placebo - Songs in the Key of F - Live
+preview song: https://p.scdn.co/mp3-preview/ebaf032477873b5571ede3235790a8baebd97212?cid=8076f647e6514780b0e03711b07be75d
+album: Dark Horse: Songs in the Key of F (Live)
+artist(s): Devin Dawson
+*****************************
+**********SONG INFO*********
+10
+song name: What a Job
+preview song: https://p.scdn.co/mp3-preview/5b042c7ba22b417ae49a0d47fee611168594f8b2?cid=8076f647e6514780b0e03711b07be75d
+album: Waitin' to Inhale
+artist(s): Devin The Dude
+*****************************
+**********SONG INFO*********
+11
+song name: Matthew's Daughter (feat. Devin Dawson)
+preview song: https://p.scdn.co/mp3-preview/52ba73c5bc95d0d2ba5358126629a3368e9dc01c?cid=8076f647e6514780b0e03711b07be75d
+album: Matthew's Daughter (feat. Devin Dawson)
+artist(s): Beoga
+*****************************
+**********SONG INFO*********
+12
+song name: Doobie Ashtray
+preview song: https://p.scdn.co/mp3-preview/cf3c5b9292023a7d94ff9c74b5f359e177a788b5?cid=8076f647e6514780b0e03711b07be75d
+album: Just Tryin ta Live (Amended)
+artist(s): Devin The Dude
+*****************************
+**********SONG INFO*********
+13
+song name: F*** Faces
+preview song: null
+album: Greatest Hits
+artist(s): Scarface
+*****************************
+**********SONG INFO*********
+14
+song name: Talent Show
+preview song: https://p.scdn.co/mp3-preview/37c1bfbb9f3e92068813af4890c62352d42e5b0a?cid=8076f647e6514780b0e03711b07be75d
+album: Mac and Devin Go To High School (Music From and Inspired By The Movie)
+artist(s): Snoop Dogg
+*****************************
+**********SONG INFO*********
+15
+song name: I Don't Care Who Sees
+preview song: https://p.scdn.co/mp3-preview/2590b7d2f775e1e96a0b3fe5da997b3b7582e231?cid=8076f647e6514780b0e03711b07be75d
+album: Dark Horse
+artist(s): Devin Dawson
+*****************************
+**********SONG INFO*********
+16
+song name: Secondhand Hurt
+preview song: https://p.scdn.co/mp3-preview/ba5e0346149193d56a9a712bfacee5a0b51884b4?cid=8076f647e6514780b0e03711b07be75d
+album: Dark Horse
+artist(s): Devin Dawson
+*****************************
+**********SONG INFO*********
+17
+song name: All On Me - Recorded at Spotify Studios NYC
+preview song: https://p.scdn.co/mp3-preview/6610e52d2f77966fae554dafaae1e69d485d3df6?cid=8076f647e6514780b0e03711b07be75d
+album: Spotify Singles
+artist(s): Devin Dawson
+*****************************
+**********SONG INFO*********
+18
+song name: Whiskey - Recorded at Spotify Studios NYC
+preview song: https://p.scdn.co/mp3-preview/b2c338bbf3e377508dbbcebb0eb4498a6fb88c06?cid=8076f647e6514780b0e03711b07be75d
+album: Spotify Singles
+artist(s): Devin Dawson
+*****************************
+**********SONG INFO*********
+19
+song name: Noid (feat. Devin the Dude & Snoop Dogg)
+preview song: https://p.scdn.co/mp3-preview/6e5736702185a081e4019581b8e88a67837ad280?cid=8076f647e6514780b0e03711b07be75d
+album: The Big Pescado
+artist(s): Berner
+*****************************
+**********SONG INFO*********
+0
+song name: All on Me
+preview song: https://p.scdn.co/mp3-preview/b4459b0c6e87748e5a638ef45a1640e9bd2824b0?cid=8076f647e6514780b0e03711b07be75d
+album: Dark Horse
+artist(s): Devin Dawson
+*****************************
+**********SONG INFO*********
+1
+song name: Asking for a Friend
+preview song: https://p.scdn.co/mp3-preview/cd595141e6d4787e49f689b5b6d39fb99febb825?cid=8076f647e6514780b0e03711b07be75d
+album: Dark Horse
+artist(s): Devin Dawson
+*****************************
+**********SONG INFO*********
+2
+song name: Oh Devil - Radio Version
+preview song: null
+album: Oh Devil (Radio Version)
+artist(s): Electric Guest
+*****************************
+**********SONG INFO*********
+3
+song name: Young, Wild & Free (feat. Bruno Mars)
+preview song: https://p.scdn.co/mp3-preview/8c67ffec7842ba4da0623429973e540e0dc3ccdd?cid=8076f647e6514780b0e03711b07be75d
+album: Mac and Devin Go To High School (Music From and Inspired By The Movie)
+artist(s): Snoop Dogg
+*****************************
+**********SONG INFO*********
+4
+song name: Summer Lover (feat. Devin & Nile Rodgers)
+preview song: https://p.scdn.co/mp3-preview/c2f3a8092043b3990102d849e256f1f66d4525c1?cid=8076f647e6514780b0e03711b07be75d
+album: Summer Lover (feat. Devin & Nile Rodgers)
+artist(s): Oliver Heldens
+*****************************
+**********SONG INFO*********
+5
+song name: Dark Horse
+preview song: https://p.scdn.co/mp3-preview/fb527ad3f346b16627b5e10ade5c0f74534ad8ff?cid=8076f647e6514780b0e03711b07be75d
+album: Dark Horse
+artist(s): Devin Dawson
+*****************************
+**********SONG INFO*********
+6
+song name: Young, Wild & Free (feat. Bruno Mars)
+preview song: https://p.scdn.co/mp3-preview/07aa6b278601d4f50c382fd750000f0f88020f7f?cid=8076f647e6514780b0e03711b07be75d
+album: Mac and Devin Go To High School (Music From and Inspired By The Movie)
+artist(s): Snoop Dogg
+*****************************
+**********SONG INFO*********
+7
+song name: Fuck You
+preview song: null
+album: 2001
+artist(s): Dr. Dre
+*****************************
+**********SONG INFO*********
+8
+song name: French Inhale (feat. Mike Posner)
+preview song: https://p.scdn.co/mp3-preview/94c46ce5dc5217c6af2303f08e448c887b0d9164?cid=8076f647e6514780b0e03711b07be75d
+album: Mac and Devin Go To High School (Music From and Inspired By The Movie)
+artist(s): Snoop Dogg
+*****************************
+**********SONG INFO*********
+9
+song name: Placebo - Songs in the Key of F - Live
+preview song: https://p.scdn.co/mp3-preview/ebaf032477873b5571ede3235790a8baebd97212?cid=8076f647e6514780b0e03711b07be75d
+album: Dark Horse: Songs in the Key of F (Live)
+artist(s): Devin Dawson
+*****************************
+**********SONG INFO*********
+10
+song name: What a Job
+preview song: https://p.scdn.co/mp3-preview/5b042c7ba22b417ae49a0d47fee611168594f8b2?cid=8076f647e6514780b0e03711b07be75d
+album: Waitin' to Inhale
+artist(s): Devin The Dude
+*****************************
+**********SONG INFO*********
+11
+song name: Matthew's Daughter (feat. Devin Dawson)
+preview song: https://p.scdn.co/mp3-preview/52ba73c5bc95d0d2ba5358126629a3368e9dc01c?cid=8076f647e6514780b0e03711b07be75d
+album: Matthew's Daughter (feat. Devin Dawson)
+artist(s): Beoga
+*****************************
+**********SONG INFO*********
+12
+song name: Doobie Ashtray
+preview song: https://p.scdn.co/mp3-preview/cf3c5b9292023a7d94ff9c74b5f359e177a788b5?cid=8076f647e6514780b0e03711b07be75d
+album: Just Tryin ta Live (Amended)
+artist(s): Devin The Dude
+*****************************
+**********SONG INFO*********
+13
+song name: F*** Faces
+preview song: null
+album: Greatest Hits
+artist(s): Scarface
+*****************************
+**********SONG INFO*********
+14
+song name: Talent Show
+preview song: https://p.scdn.co/mp3-preview/37c1bfbb9f3e92068813af4890c62352d42e5b0a?cid=8076f647e6514780b0e03711b07be75d
+album: Mac and Devin Go To High School (Music From and Inspired By The Movie)
+artist(s): Snoop Dogg
+*****************************
+**********SONG INFO*********
+15
+song name: I Don't Care Who Sees
+preview song: https://p.scdn.co/mp3-preview/2590b7d2f775e1e96a0b3fe5da997b3b7582e231?cid=8076f647e6514780b0e03711b07be75d
+album: Dark Horse
+artist(s): Devin Dawson
+*****************************
+**********SONG INFO*********
+16
+song name: Secondhand Hurt
+preview song: https://p.scdn.co/mp3-preview/ba5e0346149193d56a9a712bfacee5a0b51884b4?cid=8076f647e6514780b0e03711b07be75d
+album: Dark Horse
+artist(s): Devin Dawson
+*****************************
+**********SONG INFO*********
+17
+song name: All On Me - Recorded at Spotify Studios NYC
+preview song: https://p.scdn.co/mp3-preview/6610e52d2f77966fae554dafaae1e69d485d3df6?cid=8076f647e6514780b0e03711b07be75d
+album: Spotify Singles
+artist(s): Devin Dawson
+*****************************
+**********SONG INFO*********
+18
+song name: Whiskey - Recorded at Spotify Studios NYC
+preview song: https://p.scdn.co/mp3-preview/b2c338bbf3e377508dbbcebb0eb4498a6fb88c06?cid=8076f647e6514780b0e03711b07be75d
+album: Spotify Singles
+artist(s): Devin Dawson
+*****************************
+**********SONG INFO*********
+19
+song name: Noid (feat. Devin the Dude & Snoop Dogg)
+preview song: https://p.scdn.co/mp3-preview/6e5736702185a081e4019581b8e88a67837ad280?cid=8076f647e6514780b0e03711b07be75d
+album: The Big Pescado
+artist(s): Berner
+*****************************
+**********SONG INFO*********
+0
+song name: Going Bad (feat. Drake)
+preview song: https://p.scdn.co/mp3-preview/29e19c68dd853994221a90103db28427f1185e33?cid=8076f647e6514780b0e03711b07be75d
+album: Championships
+artist(s): Meek Mill
+*****************************
+**********SONG INFO*********
+1
+song name: MIA (feat. Drake)
+preview song: https://p.scdn.co/mp3-preview/1aa25af8a24b4c54dad8958fe3478b78ce5088bb?cid=8076f647e6514780b0e03711b07be75d
+album: MIA (feat. Drake)
+artist(s): Bad Bunny
+*****************************
+**********SONG INFO*********
+2
+song name: Look Alive (feat. Drake)
+preview song: https://p.scdn.co/mp3-preview/4c9c1f93e4b6032679d772a0a8c3c28cef5a42ae?cid=8076f647e6514780b0e03711b07be75d
+album: Look Alive (feat. Drake)
+artist(s): BlocBoy JB
+*****************************
+**********SONG INFO*********
+3
+song name: Nonstop
+preview song: null
+album: Scorpion
+artist(s): Drake
+*****************************
+**********SONG INFO*********
+4
+song name: God's Plan
+preview song: null
+album: Scorpion
+artist(s): Drake
+*****************************
+**********SONG INFO*********
+5
+song name: Yes Indeed
+preview song: null
+album: Harder Than Ever
+artist(s): Lil Baby
+*****************************
+**********SONG INFO*********
+6
+song name: Nice For What
+preview song: null
+album: Scorpion
+artist(s): Drake
+*****************************
+**********SONG INFO*********
+7
+song name: In My Feelings
+preview song: null
+album: Scorpion
+artist(s): Drake
+*****************************
+**********SONG INFO*********
+8
+song name: Never Recover (Lil Baby & Gunna, Drake)
+preview song: null
+album: Drip Harder
+artist(s): Lil Baby
+*****************************
+**********SONG INFO*********
+9
+song name: Girls Need Love (with Drake) - Remix
+preview song: null
+album: Last Day Of Summer
+artist(s): Summer Walker
+*****************************
+**********SONG INFO*********
+10
+song name: FLIP THE SWITCH (feat. Drake)
+preview song: null
+album: QUAVO HUNCHO
+artist(s): Quavo
+*****************************
+**********SONG INFO*********
+11
+song name: Passionfruit
+preview song: null
+album: More Life
+artist(s): Drake
+*****************************
+**********SONG INFO*********
+12
+song name: Mob Ties
+preview song: null
+album: Scorpion
+artist(s): Drake
+*****************************
+**********SONG INFO*********
+13
+song name: No Stylist
+preview song: https://p.scdn.co/mp3-preview/7bb40a00fbb1e258c4097856429b45ac02fec09b?cid=8076f647e6514780b0e03711b07be75d
+album: No Stylist
+artist(s): French Montana
+*****************************
+**********SONG INFO*********
+14
+song name: Both (feat. Drake)
+preview song: https://p.scdn.co/mp3-preview/0278a03a3a9814b0532764b4c1d014388e815073?cid=8076f647e6514780b0e03711b07be75d
+album: The Return of East Atlanta Santa
+artist(s): Gucci Mane
+*****************************
+**********SONG INFO*********
+15
+song name: I'm Upset
+preview song: null
+album: Scorpion
+artist(s): Drake
+*****************************
+**********SONG INFO*********
+16
+song name: One Dance
+preview song: null
+album: Views
+artist(s): Drake
+*****************************
+**********SONG INFO*********
+17
+song name: Walk It Talk It
+preview song: null
+album: Culture II
+artist(s): Migos
+*****************************
+**********SONG INFO*********
+18
+song name: R.I.C.O. (feat. Drake)
+preview song: https://p.scdn.co/mp3-preview/d5f29c79f1f3e5fcbe22f23f6fddc8e3cbd7b909?cid=8076f647e6514780b0e03711b07be75d
+album: Dreams Worth More Than Money
+artist(s): Meek Mill
+*****************************
+**********SONG INFO*********
+19
+song name: Come and See Me (feat. Drake)
+preview song: https://p.scdn.co/mp3-preview/c0bf3fbbb22c5aed7dec0ec07acc7f9181728d25?cid=8076f647e6514780b0e03711b07be75d
+album: PARTYNEXTDOOR 3 (P3)
+artist(s): PARTYNEXTDOOR
+*****************************

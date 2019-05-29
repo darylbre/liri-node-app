@@ -1,13 +1,12 @@
 require("dotenv").config();
-
-//const request = require("request");
+const request = require("request");
 const fs = require("fs");
 const axios = require('axios');
 const keys = require('./keys.js');
 const Spotify = require('node-spotify-api');
 const spotify = new Spotify(keys.spotify);
 const userOption = process.argv[2];
-const inputParameter = process.argv[3];
+const inputParameter = process.argv.slice(3).join(' ');
 
 userInput(userOption, inputParameter);
 
@@ -31,11 +30,12 @@ function userInput(userOption, inputParameter) {
 }
 
 function showConcert(inputParameter) {
-  const queryUrl = "https://rest.bandsintown.com/artists/" + inputParameter + "/events?app_id=codingbootcamp";
-  axios.get(queryUrl, function (error, response, body) {
-    if (!error && response.statusCode === 000) {
-      const concerts = JSON.parse(body);
-      for (var i = 0; i < concerts.length; i++) {
+  var queryUrl = "https://rest.bandsintown.com/artists/" + inputParameter + "/events?app_id=codingbootcamp";
+  axios.get(queryUrl).then(function (response) {
+    console.log (response.data)
+   
+    var concerts = response.data
+    for (var i = 0; i < concerts.length; i++) {
         console.log("**********EVENT INFO*********");
         fs.appendFileSync("log.txt", "**********EVENT INFO*********\n");
         console.log(i);
@@ -48,12 +48,12 @@ function showConcert(inputParameter) {
         fs.appendFileSync("log.txt", "Date of the Event: " + concerts[i].datetime + "\n");
         console.log("*****************************");
         fs.appendFileSync("log.txt", "*****************************" + "\n");
+     
       }
-    } else {
-      console.log('Error occurred.');
     }
-  });
-}
+  );
+};
+
 
 
 function showSong(inputParameter) {
@@ -102,35 +102,31 @@ function showMovie(inputParameter) {
     console.log("It's on Netflix!");
     fs.appendFileSync("log.txt", "It's on Netflix!\n");
   }
+
   var queryUrl = "http://www.omdbapi.com/?t=" + inputParameter + "&y=&plot=short&apikey=b3c0b435";
-  request(queryUrl, function (error, response, body) {
+  axios.get(queryUrl).then(function (response) {
+    console.log(response.data)
 
-    if (!error && response.statusCode === 200) {
-      var movies = JSON.parse(body);
+      var movies = response.data
       console.log("**********MOVIE INFO*********");
-      fs.appendFileSync("log.txt", "**********MOVIE INFO*********\n");
-      console.log("Title: " + movies.Title);
-      fs.appendFileSync("log.txt", "Title: " + movies.Title + "\n");
-      console.log("Release Year: " + movies.Year);
-      fs.appendFileSync("log.txt", "Release Year: " + movies.Year + "\n");
-      console.log("IMDB Rating: " + movies.imdbRating);
-      fs.appendFileSync("log.txt", "IMDB Rating: " + movies.imdbRating + "\n");
-      console.log("Rotten Tomatoes Rating: " + getRottenTomatoesRatingValue(movies));
-      fs.appendFileSync("log.txt", "Rotten Tomatoes Rating: " + getRottenTomatoesRatingValue(movies) + "\n");
-      console.log("Country of Production: " + movies.Country);
-      fs.appendFileSync("log.txt", "Country of Production: " + movies.Country + "\n");
-      console.log("Language: " + movies.Language);
-      fs.appendFileSync("log.txt", "Language: " + movies.Language + "\n");
-      console.log("Plot: " + movies.Plot);
-      fs.appendFileSync("log.txt", "Plot: " + movies.Plot + "\n");
-      console.log("Actors: " + movies.Actors);
-      fs.appendFileSync("log.txt", "Actors: " + movies.Actors + "\n");
-      console.log("*****************************");
-      fs.appendFileSync("log.txt", "*****************************\n");
-    } else {
-      console.log('Error occurred.');
-    }
 
+      console.log("Title: " + movies.Title);
+
+      console.log("Release Year: " + movies.Year);
+
+      console.log("IMDB Rating: " + movies.imdbRating);
+
+      console.log("Rotten Tomatoes Rating: " + getRottenTomatoesRatingValue(movies));
+
+      console.log("Country of Production: " + movies.Country);
+
+      console.log("Language: " + movies.Language);
+
+      console.log("Plot: " + movies.Plot);
+
+      console.log("Actors: " + movies.Actors);
+
+      console.log("*****************************");
   });
 }
 
