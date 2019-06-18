@@ -558,3 +558,143 @@ preview song: https://p.scdn.co/mp3-preview/c0bf3fbbb22c5aed7dec0ec07acc7f918172
 album: PARTYNEXTDOOR 3 (P3)
 artist(s): PARTYNEXTDOOR
 *****************************
+**********SONG INFO*********
+0
+song name: Going Bad (feat. Drake)
+preview song: https://p.scdn.co/mp3-preview/29e19c68dd853994221a90103db28427f1185e33?cid=8076f647e6514780b0e03711b07be75d
+album: Championships
+artist(s): Meek Mill
+*****************************
+**********SONG INFO*********
+1
+song name: MIA (feat. Drake)
+preview song: https://p.scdn.co/mp3-preview/1aa25af8a24b4c54dad8958fe3478b78ce5088bb?cid=8076f647e6514780b0e03711b07be75d
+album: MIA (feat. Drake)
+artist(s): Bad Bunny
+*****************************
+**********SONG INFO*********
+2
+song name: Look Alive (feat. Drake)
+preview song: https://p.scdn.co/mp3-preview/4c9c1f93e4b6032679d772a0a8c3c28cef5a42ae?cid=8076f647e6514780b0e03711b07be75d
+album: Look Alive (feat. Drake)
+artist(s): BlocBoy JB
+*****************************
+**********SONG INFO*********
+3
+song name: Nonstop
+preview song: null
+album: Scorpion
+artist(s): Drake
+*****************************
+**********SONG INFO*********
+4
+song name: God's Plan
+preview song: null
+album: Scorpion
+artist(s): Drake
+*****************************
+**********SONG INFO*********
+5
+song name: Yes Indeed
+preview song: null
+album: Harder Than Ever
+artist(s): Lil Baby
+*****************************
+**********SONG INFO*********
+6
+song name: Nice For What
+preview song: null
+album: Scorpion
+artist(s): Drake
+*****************************
+**********SONG INFO*********
+7
+song name: In My Feelings
+preview song: null
+album: Scorpion
+artist(s): Drake
+*****************************
+**********SONG INFO*********
+8
+song name: Never Recover (Lil Baby & Gunna, Drake)
+preview song: null
+album: Drip Harder
+artist(s): Lil Baby
+*****************************
+**********SONG INFO*********
+9
+song name: Girls Need Love (with Drake) - Remix
+preview song: null
+album: Last Day Of Summer
+artist(s): Summer Walker
+*****************************
+**********SONG INFO*********
+10
+song name: Passionfruit
+preview song: null
+album: More Life
+artist(s): Drake
+*****************************
+**********SONG INFO*********
+11
+song name: FLIP THE SWITCH (feat. Drake)
+preview song: null
+album: QUAVO HUNCHO
+artist(s): Quavo
+*****************************
+**********SONG INFO*********
+12
+song name: Mob Ties
+preview song: null
+album: Scorpion
+artist(s): Drake
+*****************************
+**********SONG INFO*********
+13
+song name: Both (feat. Drake)
+preview song: https://p.scdn.co/mp3-preview/0278a03a3a9814b0532764b4c1d014388e815073?cid=8076f647e6514780b0e03711b07be75d
+album: The Return of East Atlanta Santa
+artist(s): Gucci Mane
+*****************************
+**********SONG INFO*********
+14
+song name: No Stylist
+preview song: https://p.scdn.co/mp3-preview/7bb40a00fbb1e258c4097856429b45ac02fec09b?cid=8076f647e6514780b0e03711b07be75d
+album: No Stylist
+artist(s): French Montana
+*****************************
+**********SONG INFO*********
+15
+song name: I'm Upset
+preview song: null
+album: Scorpion
+artist(s): Drake
+*****************************
+**********SONG INFO*********
+16
+song name: One Dance
+preview song: null
+album: Views
+artist(s): Drake
+*****************************
+**********SONG INFO*********
+17
+song name: Walk It Talk It
+preview song: null
+album: Culture II
+artist(s): Migos
+*****************************
+**********SONG INFO*********
+18
+song name: R.I.C.O. (feat. Drake)
+preview song: https://p.scdn.co/mp3-preview/d5f29c79f1f3e5fcbe22f23f6fddc8e3cbd7b909?cid=8076f647e6514780b0e03711b07be75d
+album: Dreams Worth More Than Money
+artist(s): Meek Mill
+*****************************
+**********SONG INFO*********
+19
+song name: Come and See Me (feat. Drake)
+preview song: https://p.scdn.co/mp3-preview/c0bf3fbbb22c5aed7dec0ec07acc7f9181728d25?cid=8076f647e6514780b0e03711b07be75d
+album: PARTYNEXTDOOR 3 (P3)
+artist(s): PARTYNEXTDOOR
+*****************************
